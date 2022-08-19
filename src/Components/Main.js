@@ -4,6 +4,7 @@ import Beasts from '../Library/data.json'
 import Modal from '../Components/SelectedBeast'
 
 
+
 class Main extends React.Component{
   constructor(props){
     super(props);
