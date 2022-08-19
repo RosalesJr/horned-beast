@@ -5,16 +5,18 @@ import Main from '../Components/Main'
 import Footer from '../Components/Footer'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+
+
+
 function App() {
-  return (
-    <div className="App">
-      <Header />
-      <Main />
-      <Footer />
+    return (
+      <div className="App">
+        <Header />
+        <Main />
+        <Footer />
         
-      
-    </div>
-  );
-}
+      </div>
+    );
+  }
 
 export default App;
